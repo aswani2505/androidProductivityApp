@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ASU Interactive Application</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string-array name="buildingArray">
+        <item>[Search a Building]</item>
+        <item>CAVC</item>
+        <item>MU</item>
+        <item>BrickYard</item>
+        <item>Coor</item>
+        <item>Nobel</item>
+        <item>Hayden</item>
+        <item>Gammage</item>
+    </string-array>
+
+</resources>
